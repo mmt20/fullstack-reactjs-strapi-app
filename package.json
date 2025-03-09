@@ -1,5 +1,5 @@
 {
-  "name": "strapi-ecommerce-backend",
+  "name": "fullstack-reactjs-strapi-app",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -25,7 +25,7 @@
     "uuid": "996a8166-9f1d-4dcb-beba-05cd253023d6"
   },
   "engines": {
-    "node": ">=16.0.0 <=18.x.x",
+    "node": "18.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
